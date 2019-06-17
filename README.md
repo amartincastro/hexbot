@@ -1,3 +1,9 @@
+# Postman Tutorial:
+
+I used this opportunity to write a little tutorial on how to use Postman, so that people could learn how to use APIs at a very basic level. 
+
+https://twitter.com/AMartinCastro/status/1140709382813962240
+
 ![Hexbot](https://user-images.githubusercontent.com/212941/59163439-23c05900-8ab6-11e9-8764-977334c7bba8.png)
 
 # 👋 Meet Hexbot
